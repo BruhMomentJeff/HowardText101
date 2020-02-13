@@ -16,6 +16,7 @@ public class AdventureGame : MonoBehaviour
     {
         state = startingState;
         txtComponent.text = state.GetStateStory();
+        
     }
 
     // Update is called once per frame
