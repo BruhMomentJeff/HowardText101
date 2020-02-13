@@ -17,3 +17,6 @@ MonoBehaviour:
     starts in 35 minutes and surely, you can make it.\r\n\r\nUnless you just choose
     not to head into work.\r\nWhat will you do?\r\n1 - Stay in Bed.\r\n2 - Wake up,
     get up, get out there."
+  nextStates:
+  - {fileID: 11400000, guid: 6a217e5ca4b437647997ae6f5cfdc421, type: 2}
+  - {fileID: 11400000, guid: 58144af9efd12c34b8e901d33be9abb3, type: 2}
