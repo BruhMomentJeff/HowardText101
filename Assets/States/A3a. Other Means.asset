@@ -21,6 +21,6 @@ MonoBehaviour:
 
     -Give up (3)'
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: fb151583c56b26a4a83b2b722e1f6dd7, type: 2}
   - {fileID: 11400000, guid: bda56034e2e9b724ab00b4f13e9d9ef8, type: 2}
   - {fileID: 11400000, guid: 7e8575dfa8938b344b0bae4dd0e052f7, type: 2}
