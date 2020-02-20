@@ -17,26 +17,26 @@ MonoBehaviour:
     seek the
     help of local taxi drivers, needing to rush to
 
-    get to the busiest part
-    of the street to where you know
+    get to the busiest part of
+    the street to where you know
 
     a Taxi would surely come by.
 
-    But
-    alas, minutes past, before it''s too late, you didn''t
+    But alas,
+    minutes past, before it''s too late, you didn''t
 
-    make it to work
-    on time due to all the time spent
+    make it to work on time
+    due to all the time spent
 
     thinking about what to do.
 
-    [GAME
-    OVER]
+    [GAME OVER]
 
 
-    -Try Again?
+    -Try
+    Again? (1)
 
-    -Go back to the main menu.'
+    -Go back to the main menu. (2)'
   nextStates:
   - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
   - {fileID: 11400000, guid: fb53753e4c0c8064eb152ee4e1dd43ab, type: 2}

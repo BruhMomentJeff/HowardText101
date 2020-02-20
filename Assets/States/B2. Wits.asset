@@ -31,9 +31,9 @@ MonoBehaviour:
     which was nice.
 
 
-    -Try Again?
+    -Try Again? (1)
 
-    -Go back to the main menu.'
+    -Go back to the main menu. (2)'
   nextStates:
   - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
   - {fileID: 11400000, guid: fb53753e4c0c8064eb152ee4e1dd43ab, type: 2}

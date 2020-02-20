@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   strStoryText: "You ring up Allen, he seems pretty relaxed about the\r\nsituation,
     says he was swinging by there anyway\r\nbefore he headed to work so he could
-    totally manage\r to pick you up.\n\n-Try Again?\n-Go back to the main menu."
+    totally manage\r to pick you up.\n\n-Try Again? (1)\n-Go back to the main menu.
+    (2)"
   nextStates:
   - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
   - {fileID: 11400000, guid: fb53753e4c0c8064eb152ee4e1dd43ab, type: 2}

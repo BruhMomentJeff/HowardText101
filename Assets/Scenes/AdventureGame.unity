@@ -283,8 +283,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.8, y: -129.8}
-  m_SizeDelta: {x: 1576.4, y: 695.1}
+  m_AnchoredPosition: {x: 14.8, y: -145.8}
+  m_SizeDelta: {x: 1576.4, y: 727.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &702524041
 MonoBehaviour:
@@ -356,8 +356,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.8, y: -126}
-  m_SizeDelta: {x: 1477.6, y: 590}
+  m_AnchoredPosition: {x: 14.8, y: -139.85}
+  m_SizeDelta: {x: 1477.6, y: 617.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &846880451
 MonoBehaviour:
@@ -566,12 +566,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Placeholder Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder
-    Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder
-    Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder
-    Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder
-    Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder Story TextPlaceholder
-    Story TextPlaceholder Story TextPlaceholder Story Text
+  m_Text: 
 --- !u!222 &1445426099
 CanvasRenderer:
   m_ObjectHideFlags: 0

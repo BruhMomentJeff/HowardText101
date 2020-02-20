@@ -15,6 +15,6 @@ MonoBehaviour:
   strStoryText: "Welcome to this Game.\n\nIt is a Choose your Own Adventure styled
     game.\nHopefully you can manage alright. Hmhm. \n\nEach choose will prompt you
     to select an option using the provided control scheme.\n\nTo Start the game,
-    Press (1)\n\nIf at any point you would like to quit, press \"Q\""
+    Press (1)\n"
   nextStates:
   - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
