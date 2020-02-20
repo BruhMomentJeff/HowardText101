@@ -10,9 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
-  m_Name: Room 1
+  m_Name: C1c. Helping Hand
   m_EditorClassIdentifier: 
-  strStoryText: I AM IN ROOM O N E
+  strStoryText: 'There''s only one person left, but are they worth it at this point?
+
+    You
+    look through your contacts..
+
+    -Allen (1)
+
+    -Actually.. Nevermind.. (2)'
   nextStates:
-  - {fileID: 11400000, guid: 58144af9efd12c34b8e901d33be9abb3, type: 2}
-  - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
+  - {fileID: 11400000, guid: dd207e79017e06448b04653477c46993, type: 2}
+  - {fileID: 11400000, guid: 483d465644fc3bf4899d917c03ea6288, type: 2}

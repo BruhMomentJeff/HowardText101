@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: F1. Laziness
+  m_EditorClassIdentifier: 
+  strStoryText: 'You didn''t show up to work and were
+
+    promptly fired after your
+    boss realized
+
+    you never came in.
+
+    [GAME OVER]
+
+
+    -Try Again? (1)
+
+    -Give
+    Up. (2) '
+  nextStates:
+  - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
+  - {fileID: 11400000, guid: fb53753e4c0c8064eb152ee4e1dd43ab, type: 2}

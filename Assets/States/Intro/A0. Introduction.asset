@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  strStoryText: "Welcome to this Game.\n\nIt is a Choose your Own Adventure styled
+    game.\nHopefully you can manage alright. Hmhm. \n\nEach choose will prompt you
+    to select an option using the provided control scheme.\n\nTo Start the game,
+    Press (1)\n\nIf at any point you would like to quit, press \"Q\""
+  nextStates:
+  - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}

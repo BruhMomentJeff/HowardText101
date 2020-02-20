@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: A1. Start
+  m_EditorClassIdentifier: 
+  strStoryText: 'You have woken up in your room, the
+
+    clock is buzzing like
+    crazy for you to get
+
+    up, or you''ll be late for work.
+
+    Do you?
+
+    -Wake
+    Up, Get up, Get out there. (1)
+
+    -Stay in bed. (2)'
+  nextStates:
+  - {fileID: 11400000, guid: 10e63de6dbb5a1c419f81ece1956dcec, type: 2}
+  - {fileID: 11400000, guid: 7e8575dfa8938b344b0bae4dd0e052f7, type: 2}

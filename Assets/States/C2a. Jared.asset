@@ -10,9 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
-  m_Name: Room 2
+  m_Name: C2a. Jared
   m_EditorClassIdentifier: 
-  strStoryText: Eh, this is kinda an average looking Room 2
+  strStoryText: 'You tried to call Jared, but he
+
+    didn''t seem to be picking
+    up..
+
+    Trying again.. Nothing, it
+
+    seems he was busy..
+
+
+    -There has
+    to be SOMEONE available.. (1)'
   nextStates:
-  - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
-  - {fileID: 11400000, guid: 6a217e5ca4b437647997ae6f5cfdc421, type: 2}
+  - {fileID: 11400000, guid: 5ccc76c4deded7b429b8c7ae4ec42ee7, type: 2}

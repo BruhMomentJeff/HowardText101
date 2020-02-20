@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: D1. Taxi
+  m_EditorClassIdentifier: 
+  strStoryText: 'In some attempt to get a ride, you seek the help of
+
+    local taxi
+    drivers, taking a bit of a walk to make it to
+
+    where you know Taxis are always
+    passing by, the
+
+    question was, were you going to be fortunate enough
+
+    to
+    get one so easil-
+
+    Indeed so, after raising your hand up to hail one
+
+    down,
+    you manage to garner a ride, although it does
+
+    take a cut from your wallet,
+    it was worth it to secure a
+
+    route to work.
+
+
+    -Try Again?
+
+    -Go back
+    to the main menu.'
+  nextStates:
+  - {fileID: 11400000, guid: eeb5224f61c01c24fab0c5db5c8c09cf, type: 2}
+  - {fileID: 11400000, guid: fb53753e4c0c8064eb152ee4e1dd43ab, type: 2}

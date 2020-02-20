@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: A4. Attempting to Start your Car
+  m_EditorClassIdentifier: 
+  strStoryText: 'No point in bothering your friends.
+
+    You get into your car,
+    usually it''s rather responsive
+
+    but lately it hasn''t been starting up,
+    entering the car
+
+    and trying to get it going, it seems to whir to life only
+
+    to
+    choke up, and not start up..
+
+    -Keep on trying. (1)
+
+    -Get out and try
+    finding another way to work. (2)'
+  nextStates:
+  - {fileID: 11400000, guid: 1128fd1c6a0bae344a5fe460295863bf, type: 2}
+  - {fileID: 11400000, guid: 6ebe3a86134c8cc4aa2b92bb030b4de0, type: 2}

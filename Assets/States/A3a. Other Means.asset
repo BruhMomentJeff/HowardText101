@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: A3a. Other Means
+  m_EditorClassIdentifier: 
+  strStoryText: 'Nothing is working for you right now, your shrinking options are...
+
+    -Hail
+    a Taxi (1)
+
+    -Call a Friend to help you out. (2)
+
+    -Give up (3)'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: bda56034e2e9b724ab00b4f13e9d9ef8, type: 2}
+  - {fileID: 11400000, guid: 7e8575dfa8938b344b0bae4dd0e052f7, type: 2}

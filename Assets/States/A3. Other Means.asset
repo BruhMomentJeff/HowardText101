@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: A3. Other Means
+  m_EditorClassIdentifier: 
+  strStoryText: 'Not worth the risk, if your car doesn''t want to be
+
+    cooperative
+    there''s nothing you can do right now, call
+
+    a mechanic after your day of
+    work, but for now, you
+
+    decide to..
+
+    -Hail a Taxi (1)
+
+    -Call a friend
+    to give you a ride (2)
+
+    -Give up (3)'
+  nextStates:
+  - {fileID: 11400000, guid: bf8a5905ed99d7546add7535c31f3c76, type: 2}
+  - {fileID: 11400000, guid: bda56034e2e9b724ab00b4f13e9d9ef8, type: 2}
+  - {fileID: 11400000, guid: 7e8575dfa8938b344b0bae4dd0e052f7, type: 2}

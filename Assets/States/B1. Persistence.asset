@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: B1. Persistence
+  m_EditorClassIdentifier: 
+  strStoryText: 'You can''t just give up, focused and clear minded, you
+
+    decide
+    once more, turning the key into the ignition and
+
+    with the whir and roar
+    of the engine, you got it, your car
+
+    starts up and you''re able to head
+    to work.
+
+    However, an issue arises when the usual route to work is
+
+    having
+    construction done, and while they made a steady
+
+    path through, it''s clogged
+    up with other cars.
+
+    What do you do?
+
+    -Wait in the traffic, maybe it
+    won''t take too long. (1)
+
+    -Try to find another route to work. (2)'
+  nextStates:
+  - {fileID: 11400000, guid: 0ce94868efdb845428a4565eb6e9c47d, type: 2}
+  - {fileID: 11400000, guid: a9b38d64bd4aa7147b172a1be42ac40f, type: 2}

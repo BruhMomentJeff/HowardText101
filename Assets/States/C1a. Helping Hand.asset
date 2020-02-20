@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96285c3b7c2291043b68d568d3b1cde8, type: 3}
+  m_Name: C1a. Helping Hand
+  m_EditorClassIdentifier: 
+  strStoryText: 'Jared seemed way too busy anyway..
+
+    You look through your contacts..
+
+    -Allen
+    (1)
+
+    -Karen (2)
+
+    -Actually.. Nevermind.. (3)'
+  nextStates:
+  - {fileID: 11400000, guid: dd207e79017e06448b04653477c46993, type: 2}
+  - {fileID: 11400000, guid: b6097eea8a66ea042a2adff53ac31d42, type: 2}
+  - {fileID: 11400000, guid: 483d465644fc3bf4899d917c03ea6288, type: 2}
